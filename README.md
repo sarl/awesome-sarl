@@ -6,6 +6,9 @@ A community driven list of useful SARL libraries, frameworks and software. This 
 - [Awesome SARL](#awesome-sarl)
     - [SARL Frameworks](#sarl_frameworks)
     - [Runtime Environment](#runtime_environment)
+    - [Language Extensions](#language_extensions)
+    - [Physic Environment Models](#physic_environment_models)
+    - [Applications](#applications)
 - [Contributing](#contributing)
 
 ## SARL Frameworks
@@ -18,11 +21,21 @@ A community driven list of useful SARL libraries, frameworks and software. This 
 
 *Runtime environments for the SARL language.*
 
-* [Janus](https://www.janusproject.io) — An open-source multi-agent platform fully implemented in Java 1.7, and that enables execution of agents or holons over a computer network.
+* [Janus](http://www.janusproject.io) — An open-source multi-agent platform fully implemented in Java 1.7, and that enables execution of agents or holons over a computer network.
 
-## Extensions
+## Language Extensions
 
-*SARL extensions.*
+*Language extensions upon the SARL language.*
+
+## Physic Environment Models
+
+*Libraries that provides physic environment models to SARL agents.*
+
+* [Jasim](http://www.multiagent.fr/Jasim_Platform) — A non-free Java library that implements simulated 1D and 3D physic environments in which the agents are located.
+
+## Applications
+
+*Software implemented with SARL.*
 
 # Contributing
 
