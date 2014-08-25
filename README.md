@@ -18,7 +18,7 @@ A community driven list of useful SARL libraries, frameworks and software. This 
 
 *Runtime environments for the SARL language.*
 
-* [Janus](https://github.com/janus-project/janusproject) — An open-source multi-agent platform fully implemented in Java 1.7, and that enables execution of agents or holons over a computer network.
+* [Janus](https://www.janusproject.io) — An open-source multi-agent platform fully implemented in Java 1.7, and that enables execution of agents or holons over a computer network.
 
 ## Extensions
 
