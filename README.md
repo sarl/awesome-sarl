@@ -1,7 +1,7 @@
 Awesome SARL
 ============
 
-A community driven list of useful SARL libraries, frameworks and software. This is not a catalog of all the libraries, just a starting point for your explorations. Inspired by [awesome-scala](https://github.com/lauris/awesome-scala). Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
+A community driven list of useful SARL libraries, frameworks and software. This is not a catalog of all the libraries, just a starting point for your explorations. This list will be used by the SARL team for updating the official web sites of SARL (and related) after a validation process. Inspired by [awesome-scala](https://github.com/lauris/awesome-scala). Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
 - [Awesome SARL](#awesome-sarl)
     - [SARL Frameworks](#sarl_frameworks)
