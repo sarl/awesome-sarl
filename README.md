@@ -6,7 +6,7 @@ A community driven list of useful [SARL](http://www.sarl.io) libraries, framewor
 - [Awesome SARL](#awesome-sarl)
     - [SARL Frameworks](#sarl_frameworks)
     - [Runtime Environments](#runtime_environments)
--   - [News and Tips](#news_and_documentation)
+    - [News and Tips](#news_and_documentation)
     - [Language Extensions](#language_extensions)
     - [Physic Environment Models](#physic_environment_models)
     - [Applications](#applications)
