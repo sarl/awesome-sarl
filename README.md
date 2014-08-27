@@ -5,7 +5,7 @@ A community driven list of useful SARL libraries, frameworks and software. This 
 
 - [Awesome SARL](#awesome-sarl)
     - [SARL Frameworks](#sarl_frameworks)
-    - [Runtime Environment](#runtime_environment)
+    - [Runtime Environments](#runtime_environments)
     - [Language Extensions](#language_extensions)
     - [Physic Environment Models](#physic_environment_models)
     - [Applications](#applications)
@@ -18,7 +18,7 @@ A community driven list of useful SARL libraries, frameworks and software. This 
 
 * [Eclipse](https://github.com/sarl/sarl) — The SARL project supports integration in the Eclipse IDE.
 
-## Runtime Environment
+## Runtime Environments
 
 *Runtime environments for the SARL language.*
 
