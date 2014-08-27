@@ -27,7 +27,7 @@ A community driven list of useful [SARL](http://www.sarl.io) libraries, framewor
 
 * [Eclipse](https://github.com/sarl/sarl) — The SARL project supports integration in the Eclipse IDE.
 
-## SARL Frameworks
+## News and Documentation
 
 *Locations where to find news and documentation.*
 
