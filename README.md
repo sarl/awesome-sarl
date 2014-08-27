@@ -4,13 +4,13 @@ Awesome SARL
 A community driven list of useful [SARL](http://www.sarl.io) libraries, frameworks and software. This is not a catalog of all the libraries, just a starting point for your explorations. This list will be used by the SARL team for updating the official web sites of SARL (and related) after a validation process. Inspired by [awesome-scala](https://github.com/lauris/awesome-scala). Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
 - [Awesome SARL](#awesome-sarl)
-    - [SARL Frameworks](#sarl_frameworks)
-    - [Runtime Environments](#runtime_environments)
-    - [News and Tips](#news_and_documentation)
-    - [Language Extensions](#language_extensions)
-    - [Physic Environment Models](#physic_environment_models)
+    - [SARL Frameworks](#sarl-frameworks)
+    - [Runtime Environments](#runtime-environments)
+    - [News and Tips](#news-and-documentation)
+    - [Language Extensions](#language-extensions)
+    - [Physic Environment Models](#physic-environment-models)
     - [Applications](#applications)
-    - [Presentation Materials](#presentation_materials)
+    - [Presentation Materials](#presentation-materials)
 - [Contributing](#contributing)
 
 ## SARL Frameworks
