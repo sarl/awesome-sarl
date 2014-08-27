@@ -1,11 +1,12 @@
 Awesome SARL
 ============
 
-A community driven list of useful SARL libraries, frameworks and software. This is not a catalog of all the libraries, just a starting point for your explorations. This list will be used by the SARL team for updating the official web sites of SARL (and related) after a validation process. Inspired by [awesome-scala](https://github.com/lauris/awesome-scala). Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
+A community driven list of useful [SARL](http://www.sarl.io) libraries, frameworks and software. This is not a catalog of all the libraries, just a starting point for your explorations. This list will be used by the SARL team for updating the official web sites of SARL (and related) after a validation process. Inspired by [awesome-scala](https://github.com/lauris/awesome-scala). Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
 
 - [Awesome SARL](#awesome-sarl)
     - [SARL Frameworks](#sarl_frameworks)
     - [Runtime Environments](#runtime_environments)
+-   - [News and Tips](#news_and_documentation)
     - [Language Extensions](#language_extensions)
     - [Physic Environment Models](#physic_environment_models)
     - [Applications](#applications)
@@ -23,6 +24,16 @@ A community driven list of useful SARL libraries, frameworks and software. This 
 *Runtime environments for the SARL language.*
 
 * [Janus](http://www.janusproject.io) — An open-source multi-agent platform fully implemented in Java 1.7, and that enables execution of agents or holons over a computer network.
+
+* [Eclipse](https://github.com/sarl/sarl) — The SARL project supports integration in the Eclipse IDE.
+
+## SARL Frameworks
+
+*Locations where to find news and documentation.*
+
+* [SARL News](http://www.sarl.io/news/index.html) — The news from SARL developpers.
+* [SARL Documentation](http://www.sarl.io/docs/index.html) — Official SARL documentation.
+* [SARL Publications](http://www.sarl.io/publications/index.html) — A collection of white papers and presentations related to SARL.
 
 ## Language Extensions
 
