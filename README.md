@@ -9,6 +9,7 @@ A community driven list of useful SARL libraries, frameworks and software. This 
     - [Language Extensions](#language_extensions)
     - [Physic Environment Models](#physic_environment_models)
     - [Applications](#applications)
+    - [Presentation Materials](#presentation_materials)
 - [Contributing](#contributing)
 
 ## SARL Frameworks
@@ -36,6 +37,13 @@ A community driven list of useful SARL libraries, frameworks and software. This 
 ## Applications
 
 *Software implemented with SARL.*
+
+## Presentation Materials
+
+*Sources of materials related to SARL that could be used for creating your presentations or your documents.*
+
+* [Official materials](https://github.com/sarl/sarl-data-repository) — Materials maintained by the SARL developers.
+
 
 # Contributing
 
