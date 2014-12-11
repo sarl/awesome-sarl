@@ -50,7 +50,7 @@ A community driven list of useful [SARL](http://www.sarl.io) libraries, framewor
 
 *Software implemented with SARL.*
 
-* [acrange](https://github.com/scenaristeur/acrange) - A small project that could server as a template for deploying Janus on a webserver. License: unknown.
+* [acrange](https://github.com/scenaristeur/acrange) - A small project that could serve as a template for deploying Janus on a webserver. License: unknown.
 
 ## Presentation Materials
 
