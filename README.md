@@ -44,11 +44,13 @@ A community driven list of useful [SARL](http://www.sarl.io) libraries, framewor
 *Libraries that provides simulation environments to SARL agents.*
 
 * [Jaak](https://github.com/gallandarakhneorg/jaak) — Jaak is an agent environment that provides a discrete 2D environment model and a simplified agent-environment interaction model based on LOGO-like primitives. License: Apache 2.
-* [Jasim](http://www.multiagent.fr/Jasim_Platform) — A non-free Java library that implements simulated 1D and 3D physic environments in which the agents are located.
+* [Jasim](http://www.multiagent.fr/Jasim_Platform) — A non-free Java library that implements simulated 1D and 3D physic environments in which the agents are located. License: Non-free, need agreement.
 
 ## Applications
 
 *Software implemented with SARL.*
+
+* [acrange](https://github.com/scenaristeur/acrange) - A small project that could server as a template for deploying Janus on a webserver. License: unknown.
 
 ## Presentation Materials
 
