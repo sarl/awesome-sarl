@@ -53,6 +53,11 @@ A community driven list of useful [SARL](http://www.sarl.io) libraries, framewor
 * [smagserver](https://github.com/scenaristeur/smagserver) - A small project that could serve as a template for deploying Janus on a webserver. License: unknown. Using Jena, Janus & HTML5.
 Demo at [Smag0](http://smag-smag0.rhcloud.com/)
 
+## Teaching Materials
+
+*Code and elements for using SARL during teaching activities (lab works, etc.)*
+* [vi51-utbm](https://github.com/gallandarakhneorg/vi51-student-sarl-simulation) - A small project that enables students to code steering behaviors during lab works of 3 hours. License: Apache 2.
+
 ## Presentation Materials
 
 *Sources of materials related to SARL that could be used for creating your presentations or your documents.*
