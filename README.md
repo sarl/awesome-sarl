@@ -10,6 +10,7 @@ A community driven list of useful [SARL](http://www.sarl.io) libraries, framewor
     - [Language Extensions](#language-extensions)
     - [Physic Environment Models](#physic-environment-models)
     - [Applications](#applications)
+    - [Teaching Materials](#teaching-materials)
     - [Presentation Materials](#presentation-materials)
 - [Contributing](#contributing)
 
