@@ -56,7 +56,7 @@ Demo at [Smag0](http://smag-smag0.rhcloud.com/)
 ## Teaching Materials
 
 *Slides and presentations for Lectures to students*
-* [Chapters 3 & 11](http://www.multiagent.fr/images/IA54_3_11.pdf) of the Lecture "Distributed Artificial Intelligence and MultiAgent Systems, Burgundy Franche-Comté University & University of Technology of Belfort-Montbéliard, France.
+* [Chapters 3 & 11](http://www.multiagent.fr/images/IA54_3_11.pdf) of the Lecture "Distributed Artificial Intelligence and MultiAgent Systems", Burgundy Franche-Comté University & University of Technology of Belfort-Montbéliard, France.
 
 *Code and elements for using SARL during teaching activities (lab works, etc.)*
 * [vi51-utbm](https://github.com/gallandarakhneorg/vi51-student-sarl-simulation) - A small project that enables students to code steering behaviors during lab works of 3 hours. License: Apache 2.
