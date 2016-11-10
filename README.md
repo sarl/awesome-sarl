@@ -10,6 +10,7 @@ A community driven list of useful [SARL](http://www.sarl.io) libraries, framewor
     - [Language Extensions](#language-extensions)
     - [Physic Environment Models](#physic-environment-models)
     - [Applications](#applications)
+    - [Teaching Materials](#teaching-materials)
     - [Presentation Materials](#presentation-materials)
 - [Contributing](#contributing)
 
@@ -55,6 +56,9 @@ Demo at [Smag0](http://smag-smag0.rhcloud.com/)
 
 ## Teaching Materials
 
+*Slides and presentations for Lectures to students*
+* [Chapters 3 & 11](http://www.multiagent.fr/images/IA54_3_11.pdf) of the Lecture "Distributed Artificial Intelligence and MultiAgent Systems", Burgundy Franche-Comté University & University of Technology of Belfort-Montbéliard, France.
+
 *Code and elements for using SARL during teaching activities (lab works, etc.)*
 * [vi51-utbm](https://github.com/gallandarakhneorg/vi51-student-sarl-simulation) - A small project that enables students to code steering behaviors during lab works of 3 hours. License: Apache 2.
 * [ia54-utbm](https://github.com/gallandarakhneorg/ia54-student-sarl-simulation) - A project that is given to students for coding a pacman game with principles from the agent-based simulation. Duration: 3 hours. License: Apache 2.
@@ -68,4 +72,4 @@ Demo at [Smag0](http://smag-smag0.rhcloud.com/)
 
 # Contributing
 
-Your contributions are always welcome! Please submit a pull request or create an issue to add a new framework, library or software to the list. Please do not submit a project that hasn’t been updated in the past 6 months.
+Your contributions are always welcome! Please submit a pull request or create an issue to add a new framework, library or software to the list.
