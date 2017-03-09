@@ -61,7 +61,7 @@ Demo at [Smag0](http://smag-smag0.rhcloud.com/)
 * [Chapters 3 & 11](http://www.multiagent.fr/images/IA54_3_11.pdf) of the Lecture "Distributed Artificial Intelligence and MultiAgent Systems", Burgundy Franche-Comté University & University of Technology of Belfort-Montbéliard, France.
 
 *Code and elements for using SARL during teaching activities (lab works, etc.)*
-* [vi51-utbm](https://github.com/gallandarakhneorg/vi51-student-sarl-simulation) - A small project that enables students to code steering behaviors during lab works of 3 hours. License: Apache 2.
+* [ia51-utbm](https://github.com/gallandarakhneorg/ia51-student-sarl-simulation) - A small project that enables students to code steering behaviors during lab works of 3 hours. License: Apache 2.
 * [ia54-utbm](https://github.com/gallandarakhneorg/ia54-student-sarl-simulation) - A project that is given to students for coding a pacman game with principles from the agent-based simulation. Duration: 3 hours. License: Apache 2.
 
 ## Presentation Materials
