@@ -32,6 +32,7 @@ A community driven list of useful [SARL](http://www.sarl.io) libraries, framewor
 
 *Locations where to find news and documentation.*
 
+* [FAQ from RMIT Lab](https://bitbucket.org/snippets/ssardina/9er67X#markdown-header-intialize-behavior-in-agents-do-not-terminate) — FAQ written by Sebastian Sardina at RMIT lab, Australia.
 * [SARL News](http://www.sarl.io/news/index.html) — The news from SARL developpers.
 * [SARL Documentation](http://www.sarl.io/docs/index.html) — Official SARL documentation.
 * [SARL Publications](http://www.sarl.io/publications/index.html) — A collection of white papers and presentations related to SARL.
